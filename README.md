@@ -3,7 +3,7 @@ Match3Demo
 
 Match3 C# engine with demo game
 
-Nothing unusual. Why I've made this?.. It was veeeery boring.
+Nothing unusual. Why I've made this?.. I was veeeery bored.
 
 // Some implementation comments.
 
